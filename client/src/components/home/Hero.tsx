@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Hero = () => {
   return (
     <section className="relative w-full h-screen flex flex-col justify-center px-10 md:px-20">

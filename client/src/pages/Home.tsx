@@ -1,4 +1,3 @@
-import React from 'react'
 import Hero from '../components/home/Hero'
 import AboutUs from './AboutUs'
 import Team from './Team'

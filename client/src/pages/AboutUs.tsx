@@ -1,5 +1,3 @@
-import React from 'react';
-
 const AboutUs = () => {
   const aboutparagraph1 = "Symphony Music Club is the official music community of JAIN FET-JU, bringing together passionate singers, musicians, and performers who share a love for music. Our goal is to create a platform where talent can shine, creativity can flourish, and students can connect through the power of music."
 

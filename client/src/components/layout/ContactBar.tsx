@@ -1,5 +1,3 @@
-import React from 'react';
-
 const ContactBar = () => {
   return (
     <div className="flex justify-between items-center bg-black text-white py-2 px-10 h-8 border-b border-gray-800">
